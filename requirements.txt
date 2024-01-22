@@ -1,0 +1,4 @@
+requests
+streamlit
+streamlit_elements
+streamlit_option_menu
